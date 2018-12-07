@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Profesores>
+
+	<Profesor	codigo="1"		nombre="Araujo, Gustavo">
+		<_1		disponible="NO"														/>
+		<_2		disponible="SI"	desde="730"		hasta="1150"	curso="6°1° Com. 2"	/>
+		<_3 	disponible="SI"	desde="730" 	hasta="1150"	curso="4°1° Com. 1"	/>
+		<_3	 	disponible="SI"	desde="1315" 	hasta="1735"	curso="7°1° Com. 2"	/>
+		<_4		disponible="SI"	desde="950"		hasta="1150"	curso="5°1°"		/>
+		<_5		disponible="NO"														/>
+	</Profesor>
+
+	<Profesor	codigo="40EC6E85"	nombre="Arredondo, Gabriel">
+		<_1		disponible="SI"		desde="1740"	hasta="2150"	curso="5°2° Com. 4"	/>
+		<_2		disponible="SI"		desde="1315"	hasta="1940"	curso="5°1° Com. 1"	/>
+		<_3		disponible="SI"		desde="1735"	hasta="2150"	curso="7°1° Com. 1"	/>
+		<_4		disponible="SI"		desde="1315"	hasta="1735"	curso="7°1° Com. 2"	/>
+		<_5		disponible="SI"		desde="1535"	hasta="1735"	curso="7°1° Com. 2"	/>
+	</Profesor>
+
+	<Profesor	codigo="3"		nombre="Canteros, Rodolfo">
+		<_1 	disponible="SI"	desde="1315"	hasta="1735"	curso="4°1° Com. 1" />
+		<_2		disponible="NO"														/>
+		<_3		disponible="NO"														/>
+		<_4		disponible="NO"														/>
+		<_5 	disponible="SI"	desde="1315"	hasta="1735"	curso="4°1° Com. 2" />
+	</Profesor>
+
+	<Profesor	codigo="4"		nombre="Bramajo, Rodrigo">
+		<_1		disponible="NO"														/>
+		<_2		disponible="SI"	desde="730"		hasta="1150"	curso="3°1° Com. 1"	/>
+		<_3		disponible="SI"	desde="730"		hasta="1150"	curso="4°2° Com. 4"	/>
+		<_4		disponible="SI"	desde="730"		hasta="1150"	curso="6°1° Com. 2"	/>
+		<_4		disponible="SI"	desde="1315"	hasta="1735"	curso="6°2° Com. 3"	/>
+		<_4		disponible="SI"	desde="1740"	hasta="2150"	curso="6°2° Com. 4"	/>
+		<_5		disponible="SI"	desde="730"		hasta="930"		curso="3°5° Com. 9"	/>
+	</Profesor>
+
+	<Profesor	codigo="5"		nombre="D'Indio, Mario">
+		<_1		disponible="NO"														/>
+		<_2		disponible="NO"														/>
+		<_3		disponible="SI"	desde="1535"	hasta="1735"	curso="7°1° Com. 1"	/>
+		<_4		disponible="SI"	desde="1315"	hasta="1735"	curso="7°1° Com. 1"	/>
+		<_5		disponible="NO"														/>
+	</Profesor>
+
+	<Profesor	codigo="6"		nombre="Felipe, Carlos">
+		<_1 	disponible="SI"	desde="730"		hasta="1150"	curso="4°2° Com. 4"	/>
+		<_2		disponible="SI"	desde="730"		hasta="1150"	curso="4°2° Com. 3"	/>
+		<_3		disponible="SI"	desde="1315"	hasta="1735"	curso="4°1° Com. 1"	/>
+		<_4		disponible="SI"	desde="1315"	hasta="1735"	curso="4°3° Com. 6"	/>
+		<_5		disponible="NO"														/>
+	</Profesor>
+
+	<Profesor	codigo="7"		nombre="Gutiérrez, Oscar">
+		<_1		disponible="NO"														/>
+		<_2		disponible="NO"														/>
+		<_3		disponible="SI"	desde="1735"	hasta="2150"	curso="7°1° Com. 2"	/>
+		<_4		disponible="SI"	desde="1315"	hasta="1735"	curso="6°2° Com. 3"	/>
+		<_4		disponible="SI"	desde="1740"	hasta="2150"	curso="7°1° Com. 2"	/>
+		<_5		disponible="SI"	desde="730"		hasta="1150"	curso="6°1° Com. 1"	/>
+		<_5		disponible="SI"	desde="1315"	hasta="1735"	curso="6°2° Com. 4"	/>
+	</Profesor>
+
+	<Profesor	codigo="8"		nombre="Jarne, Cecilia">
+		<_1		disponible="NO"														/>
+		<_2		disponible="NO"														/>
+		<_3		disponible="SI"	desde="950"		hasta="1150"	curso="5°2° Com. 4"	/>
+		<_3		disponible="SI"	desde="1315"	hasta="1735"	curso="5°1° Com. 2"	/>
+		<_4		disponible="SI"	desde="1525"	hasta="1835"	curso="6°1°"		/>
+		<_5		disponible="NO"														/>
+	</Profesor>
+
+	<Profesor	codigo="9"		nombre="Marín, Ariel">
+		<_1		disponible="SI"	desde="730"		hasta="1150"	curso="4°2° Com. 3"	/>
+		<_1		disponible="SI"	desde="1315"	hasta="1515"	curso="3°2° Com. 3"	/>
+		<_1		disponible="SI"	desde="1535"	hasta="1735"	curso="3°2° Com. 4"	/>
+		<_2		disponible="NO"														/>
+		<_3		disponible="NO"														/>
+		<_4		disponible="SI"	desde="1315"	hasta="1735"	curso="4°3° Com. 5"	/>
+		<_5		disponible="SI"	desde="950"		hasta="1515"	curso="7°1°"		/>
+		<_5		disponible="SI"	desde="1525"	hasta="1940"	curso="7°1° Com. 1"	/>
+	</Profesor>
+
+	<Profesor	codigo="10"		nombre="Marlatto, Hernán">
+		<_1		disponible="SI"	desde="1315"	hasta="1735"	curso="4°3° Com. 4"	/>
+		<_2		disponible="NO"														/>
+		<_3		disponible="NO"														/>
+		<_4		disponible="NO"														/>
+		<_5		disponible="SI"	desde="730"		hasta="1150"	curso="6°1° Com. 2"	/>
+	</Profesor>
+
+	<Profesor	codigo="2BC051F"		nombre="Ortaneche, Fernando">
+		<_1		disponible="SI"	desde="1315"	hasta="1735"	curso="4°1° Com. 2"	/>
+		<_2		disponible="SI"	desde="1315"	hasta="1735"	curso="5°1° Com. 2"	/>
+		<_3		disponible="SI"	desde="1315"	hasta="1735"	curso="5°1° Com. 1"	/>
+		<_4		disponible="SI"	desde="730"		hasta="1150"	curso="6°1° Com. 1"	/>
+		<_4		disponible="SI"	desde="1735"	hasta="2150"	curso="5°2° Com. 3"	/>
+		<_5		disponible="SI"	desde="1315"	hasta="1735"	curso="4°1° Com. 1"	/>
+	</Profesor>
+
+	<Profesor	codigo="12"		nombre="Pécora, Mariano">
+		<_1		disponible="NO"														/>
+		<_2		disponible="SI"	desde="730"		hasta="1150"	curso="6°1° Com. 1"	/>
+		<_3		disponible="NO"														/>
+		<_4		disponible="NO"														/>
+		<_5		disponible="NO"														/>
+	</Profesor>
+
+	<Profesor	codigo="13"		nombre="Piergiácomi, Daniel">
+		<_1		disponible="NO"														/>
+		<_2		disponible="NO"														/>
+		<_3		disponible="SI"	desde="1315"	hasta="1735"	curso="4°1° Com. 2"	/>
+		<_4		disponible="NO"														/>
+		<_5		disponible="NO"														/>
+	</Profesor>
+
+	<Profesor	codigo="14"		nombre="Sanchez, Mirko">
+		<_1		disponible="NO"														/>
+		<_2		disponible="NO"														/>
+		<_3		disponible="NO"														/>
+		<_4		disponible="NO"														/>
+		<_5		disponible="SI"	desde="1315"	hasta="1515"	curso="6°2° Com. 3"	/>
+		<_5		disponible="SI"	desde="1535"	hasta="1735"	curso="6°1° Com. 1"	/>
+	</Profesor>
+
+	<Profesor	codigo="15"		nombre="Soria, Nicolás">
+		<_1		disponible="NO"														/>
+		<_2		disponible="NO"														/>
+		<_3		disponible="NO"														/>
+		<_4		disponible="NO"														/>
+		<_5		disponible="NO"														/>
+	</Profesor>
+</Profesores>
