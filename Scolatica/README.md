@@ -24,7 +24,7 @@ Cada uno de esos archivos sirve para compilar (en la carpeta bin/Release) el apl
 ## DatosProfesores.xml
 
 
-Ahí es donde se encuentra la 'base de datos', se basa en elementos, atributos y valores. Se explica la estructura básica del lenguaje [acá](https://es.wikipedia.org/wiki/Extensible_Markup_Language#Estructura_de_un_documento_XML) (el campo 'codigo' es donde va el ID del PICC asociado al docente).
+Ahí es donde se encuentra la 'base de datos', se basa en elementos, atributos y valores. Se explica la estructura básica del lenguaje [acá](https://es.wikipedia.org/wiki/Extensible_Markup_Language#Estructura_de_un_documento_XML) (el atributo 'codigo' es donde va el ID del PICC asociado al docente).
 Se decidió reemplazar los días (Lunes, Martes, etc.) con _1, _2, etc. por temas de idioma de la computadora (el programa puede devolver 'Lunes' o 'Monday', si lo expresamos en número, es universal).
 
 
