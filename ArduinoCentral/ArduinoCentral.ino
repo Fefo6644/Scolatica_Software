@@ -1,3 +1,13 @@
+/*
+ * 
+ * Este programa es una modificación
+ * del programa receptor demostrado en el siguiente video:
+ * https://www.youtube.com/watch?v=eq5YpKHXJDM
+ * 
+ * Recomendo mirarlo al que sepa inglés.
+ * 
+ */
+
 // Asignación de pines
 #define RX_CLOCK 2  //  Por donde recibe los pulsos de clock.
 #define RX_DATA 3   //  Por donde recibe la información.
@@ -70,6 +80,6 @@ void loop()
     delay(1);
     digitalWrite(TX_SELECT, HIGH);
   }
-  
+
   //  Idealmente, iría iterando entre todos los Arduinos, pero hay uno solo ¯\_(ツ)_/¯
 }
