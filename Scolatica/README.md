@@ -58,4 +58,4 @@ Desde la consola de Windows (en el directorio del ejecutable) se escribe 'Scolat
 ## Contacto
 
 
-Si tienen problemas o dudas con el desarrollo del programa, mandar e-mail a [scolatica.chaparral@gmail.com](mailto:scolatica.chaparral@gmail.com) (preguntar por Federico López).
+Si tienen problemas o dudas con el desarrollo del programa, mandar e-mail a [scolatica.chaparral@gmail.com](mailto:scolatica.chaparral@gmail.com).
